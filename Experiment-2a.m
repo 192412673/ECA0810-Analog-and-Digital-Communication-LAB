@@ -1,7 +1,6 @@
 clc;
 clear;
 close all;
-
 Am = 1;
 Ac = 1;
 fm = 5;
